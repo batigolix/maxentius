@@ -480,3 +480,7 @@ article 2 col layout
 #clear{
     clear: both;
 }
+
+aside a {
+  color: #FFF;
+}
